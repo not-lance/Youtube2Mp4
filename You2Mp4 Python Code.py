@@ -36,7 +36,6 @@ def download_mp3():
 window = tk.Tk()
 window.geometry("500x300")
 window.title("Youtube to MP4")
-window.iconbitmap('Downloads\Dicon.ico')
 
 window.configure(bg='#121212')
 
